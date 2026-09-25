@@ -1,0 +1,6 @@
+{
+  "name": "ViralClip AI",
+  "description": "Auto-convert long videos and podcasts into viral TikTok, Reels, and Shorts clips with AI hooks, virality scores, and Hormozi-style animated subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
